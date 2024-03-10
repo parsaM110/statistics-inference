@@ -5,6 +5,7 @@ Kullback Leibler divergence
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 - https://stats.stackexchange.com/questions/335197/why-kl-divergence-is-non-negative
 - https://statproofbook.github.io/P/kl-nonneg.html#:~:text=with%20KL%5BP%7C%7C,and%20only%20if%20P%3DQ%20.&text=be%20reformulated%20into-,KL%5BP%7C%7CQ%5D%3D%E2%88%91x%E2%88%88,%E2%8B%85logq(x).
+- https://math.stackexchange.com/questions/2031062/proof-of-nonnegativity-of-kl-divergence-using-jensens-inequality
 
 Inequalities 
 - https://www.math.cmu.edu/~ttkocz/teaching/1819/prob-notes.pdf
