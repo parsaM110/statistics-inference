@@ -21,3 +21,5 @@ roll dice problem
 
 goldfish problem
 - https://inst.eecs.berkeley.edu/~ee126/fa07/hw/hw3_fall07_ee126_soln.pdf
+ball and empty cell problem
+- https://math.stackexchange.com/questions/476114/probability-of-n-balls-in-n-cells-one-remaining-empty#:~:text=So%20the%20total%20number%20of,2n%E2%88%921n).
